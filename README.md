@@ -1,6 +1,8 @@
 # WSC-Time-Series-Trace
 Artistic trace plots for BC Water Survey Canada Station data.
 
+Stream discharge time series are ordered by regional flow regimes. Lower darker lines are rain-dominated stations (similar to those near the coast/VI), higher lighter lines are the interior/higher elevation snow-dominated systems with a large spring freshet.
+
 This repository contains a draft TracePlot function (r/functions/TracePlot.R) to generate artistic displays of overlapping time series. The function takes in a time series and scales and orders them for plotting. An overlap scale and other features allow for some basic style manipulation. Wrote this in a hurry and the function needs some cleanup. I also want to rewrite for ggplot2. See examples below.
 
 ```r
