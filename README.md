@@ -50,8 +50,4 @@ TracePlot(xvals=datyr$xval,
           mmcol=NA,
           fill=FALSE)
 ```
-<<<<<<< HEAD
 ![LineOverlap](LinesOnly.png?raw=true "Line Overlap")
-=======
-![LineOverlap](LinesOnly.png?raw=true "Line Overlap")
->>>>>>> 694a958775ebefa7cb33d28401706278757e48b5
