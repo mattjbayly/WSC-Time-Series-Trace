@@ -2,6 +2,7 @@
 # Build Trace Plots of WSC Time Series
 #######################################
 #######################################
+#######################################
 
 # Set local directories
 base_dir <- getwd()
